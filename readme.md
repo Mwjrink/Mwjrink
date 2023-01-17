@@ -1,13 +1,39 @@
 # Maximillian Rink
 ## Systems Design Engineering
-### Email: mwjrink@uwaterloo.ca | Github: https://github.com/mwjrink
+### Email: mwjrink@gmail.com | Github: https://github.com/mwjrink
 
 # Profile
-I am an enthusiastic software developer currently working for Amazon as a Software Development Engineer. I am particularly interested in working with the rust language and low level, backend areas, where the problems are more algorithmic and complex. I have experience with database optimization, desktop and web UI frameworks, servers, web sockets, low-level concurrency and graphics code. I am currently working on high performance Rust programming and implementing a vulkan renderer attempting to replicate unreal engine 5s nanite from scratch.
+I am an enthusiastic software developer currently looking to find a job I enjoy, and hopefully, somewhere I can stay for at least a few years. I am particularly interested in working on low level, backend areas, where the problems are more algorithmic and complex. I have experience with database optimization, desktop and web UI frameworks, servers, web sockets, low-level concurrency and graphics code.  I am currently working on high performance Rust programming, a markdown editor and implementing a vulkan renderer in an attemp to replicate unreal engine 5’s nanite from scratch.
 
 # Relevant Experience 
 
 <table>
+  <tr>
+    <th align="Left" width="20%">August - Jan 2023<br/><i>(5 months)</i></th>
+    <th align="Left">Software Development Engineer I (Java, Python, Ruby, AWS)<br/><i>Amazon Inc</i></th>
+    <th align="Left" width="20%">Vancouver</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <ul>
+        <li>Refactored the metrics and alarm infrastructure
+          <ul>
+            <li>Integrated a proprietary crash report library for developer and user crashes</li>
+            <li>Was assigned a task to synchronize the infrastructure code with manual changes to our deployment</li>
+            <li>Ended up refactoring the entire service to make the code easier to modify</li>
+            <li>Created/Onboarded a pipeline to streamline the deployment of the code in the future</li>
+            <li>Wrote a slack bot to notify the team of any divergence between the deployment and the infrastructure code</li>
+            <li>This divergence previously caused a large number of high severity tickets. My solution was to first mitigate the issue, then prevent this from every happening again through automated tooling</li>
+            <li>This also allowed us to review the current state of our alarms</li>
+          </ul>
+        </li>
+        <li>Worked on internal service migrations and T1 service maintenance</li>
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+  
   <tr>
     <th align="Left" width="20%">May - August 2021<br/><i>(4 months)</i></th>
     <th align="Left">Real-Time Rendering Intern, Ray Tracing (C++, Vulkan, DirectX 12, Python)<br/><i>NVIDIA Corporation</i></th>
