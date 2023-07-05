@@ -3,7 +3,12 @@
 ### Email: mwjrink@gmail.com | Github: https://github.com/mwjrink
 
 # Profile
-I am an enthusiastic software developer currently looking to find a job I enjoy, and hopefully, somewhere I can stay for at least a few years. I am particularly interested in working on low level, backend areas, where the problems are more algorithmic and complex. I have experience with database optimization, desktop and web UI frameworks, servers, web sockets, low-level concurrency and graphics code.  I am currently working on high performance Rust programming, a markdown editor and implementing a vulkan renderer in an attemp to replicate unreal engine 5’s nanite from scratch.
+A highly creative and enthusiastic software developer with proven experience in database optimization, desktop and
+web UI frameworks, servers, web sockets, low-level concurrency, and graphics code. Proficient in working in low-level,
+backend areas, where the problems are more algorithmic and complex. Currently working on high-performance Rust
+programming, a markdown editor and implementing a Vulkan renderer to replicate unreal engine 5’s nanite from
+scratch. Exceptional communicator and consensus builder who can work with cross-functional teams to create a
+synergistic collaboration that moves technical projects forward.
 
 # Relevant Experience 
 
