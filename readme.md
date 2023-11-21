@@ -1,6 +1,6 @@
 # Maximillian Rink
 ## Systems Design Engineering
-### Email: mwjrink@gmail.com | Github: https://github.com/mwjrink | LinkedIn: https://www.linkedin.com/in/mwjrink
+### Email: mwjrink@gmail.com | Github: https://github.com/mwjrink | LinkedIn: https://www.linkedin.com/in/mwjrink | Phone: (613) 618 8360
 
 # Profile
 A highly creative and enthusiastic software developer with proven experience in database optimization, desktop and
